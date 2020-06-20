@@ -1,0 +1,16 @@
+{
+  "name": "discord_wake_up_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Adam Clarke",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Adam-Clrk/discord-wake-up-bot.git"
+  },
+  "dependencies": {
+    "discord.js": "^12.0.0",
+    "discord.js-commando": "git+https://github.com/discordjs/Commando.git"
+  }
+}
